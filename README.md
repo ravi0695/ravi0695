@@ -2,7 +2,7 @@
 - 👀 I’m interested in big data and java development.
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫You can reach me at C0813829@mylambton.ca
+- 📫You can reach me at raviteja0695@gmail.com
 
 <!---
 ravi0695/ravi0695 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
